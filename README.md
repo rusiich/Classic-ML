@@ -36,5 +36,3 @@
 
 **Автор:** Руслан  
 **Роль:** Data Scientist  
-**E-mail:** ruslan.datascience@example.com  
-**GitHub:** [github.com/ruslan-ml](https://github.com/ruslan-ml)
